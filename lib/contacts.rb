@@ -16,5 +16,5 @@ contacts = {
   
   
 def remove_strawberry(contacts)
-  contacts.each do ||
+  contacts.each do |person, data|
 end
